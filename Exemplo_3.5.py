@@ -2,4 +2,4 @@ Contador = 1
 
 while Contador <= 10:
     print(Contador)
-    Contador = Contador + 1
+    Contador = Contador + 2

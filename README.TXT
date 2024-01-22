@@ -1,1 +1,1 @@
-Aqui guardo todas os exércicios de Python feito durante a aulas 
+Aqui guardo todas os exércicios de Python feito durante a aulas.
